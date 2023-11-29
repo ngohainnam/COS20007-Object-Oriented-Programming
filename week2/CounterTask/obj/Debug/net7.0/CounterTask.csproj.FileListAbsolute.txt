@@ -1,0 +1,30 @@
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\obj\Debug\net7.0\CounterTask.csproj.AssemblyReference.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\obj\Debug\net7.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\obj\Debug\net7.0\CounterTask.AssemblyInfoInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\obj\Debug\net7.0\CounterTask.AssemblyInfo.cs
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\obj\Debug\net7.0\CounterTask.csproj.CoreCompileInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\bin\Debug\net7.0\CounterTask.exe
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\bin\Debug\net7.0\CounterTask.deps.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\bin\Debug\net7.0\CounterTask.runtimeconfig.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\bin\Debug\net7.0\CounterTask.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\bin\Debug\net7.0\CounterTask.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\obj\Debug\net7.0\CounterTask.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\obj\Debug\net7.0\refint\CounterTask.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\obj\Debug\net7.0\CounterTask.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\obj\Debug\net7.0\CounterTask.genruntimeconfig.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week2\CounterTask\obj\Debug\net7.0\ref\CounterTask.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\bin\Debug\net7.0\CounterTask.exe
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\bin\Debug\net7.0\CounterTask.deps.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\bin\Debug\net7.0\CounterTask.runtimeconfig.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\bin\Debug\net7.0\CounterTask.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\bin\Debug\net7.0\CounterTask.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\obj\Debug\net7.0\CounterTask.csproj.AssemblyReference.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\obj\Debug\net7.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\obj\Debug\net7.0\CounterTask.AssemblyInfoInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\obj\Debug\net7.0\CounterTask.AssemblyInfo.cs
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\obj\Debug\net7.0\CounterTask.csproj.CoreCompileInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\obj\Debug\net7.0\CounterTask.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\obj\Debug\net7.0\refint\CounterTask.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\obj\Debug\net7.0\CounterTask.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\obj\Debug\net7.0\CounterTask.genruntimeconfig.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week2\CounterTask\obj\Debug\net7.0\ref\CounterTask.dll

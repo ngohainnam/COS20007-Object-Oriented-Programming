@@ -1,0 +1,45 @@
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Users\ngoha\OneDrive\Desktop\Code\week1\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-Object Oriented Programming\week1\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week1\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll

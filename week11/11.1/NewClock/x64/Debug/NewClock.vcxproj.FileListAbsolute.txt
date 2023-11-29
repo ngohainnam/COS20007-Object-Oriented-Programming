@@ -1,0 +1,2 @@
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week11\11.1\C++_Clock\NewClock\x64\Debug\NewClock.exe
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week11\11.1\NewClock\x64\Debug\NewClock.exe

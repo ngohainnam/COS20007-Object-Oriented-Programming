@@ -1,0 +1,28 @@
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1 (Ver2)\TheClock\bin\Debug\net7.0\TheClock.exe
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1 (Ver2)\TheClock\bin\Debug\net7.0\TheClock.deps.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1 (Ver2)\TheClock\bin\Debug\net7.0\TheClock.runtimeconfig.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1 (Ver2)\TheClock\bin\Debug\net7.0\TheClock.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1 (Ver2)\TheClock\bin\Debug\net7.0\TheClock.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1 (Ver2)\TheClock\obj\Debug\net7.0\TheClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1 (Ver2)\TheClock\obj\Debug\net7.0\TheClock.AssemblyInfoInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1 (Ver2)\TheClock\obj\Debug\net7.0\TheClock.AssemblyInfo.cs
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1 (Ver2)\TheClock\obj\Debug\net7.0\TheClock.csproj.CoreCompileInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1 (Ver2)\TheClock\obj\Debug\net7.0\TheClock.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1 (Ver2)\TheClock\obj\Debug\net7.0\refint\TheClock.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1 (Ver2)\TheClock\obj\Debug\net7.0\TheClock.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1 (Ver2)\TheClock\obj\Debug\net7.0\TheClock.genruntimeconfig.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1 (Ver2)\TheClock\obj\Debug\net7.0\ref\TheClock.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1\TheClock\bin\Debug\net7.0\TheClock.exe
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1\TheClock\bin\Debug\net7.0\TheClock.deps.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1\TheClock\bin\Debug\net7.0\TheClock.runtimeconfig.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1\TheClock\bin\Debug\net7.0\TheClock.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1\TheClock\bin\Debug\net7.0\TheClock.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1\TheClock\obj\Debug\net7.0\TheClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1\TheClock\obj\Debug\net7.0\TheClock.AssemblyInfoInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1\TheClock\obj\Debug\net7.0\TheClock.AssemblyInfo.cs
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1\TheClock\obj\Debug\net7.0\TheClock.csproj.CoreCompileInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1\TheClock\obj\Debug\net7.0\TheClock.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1\TheClock\obj\Debug\net7.0\refint\TheClock.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1\TheClock\obj\Debug\net7.0\TheClock.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1\TheClock\obj\Debug\net7.0\TheClock.genruntimeconfig.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.1\TheClock\obj\Debug\net7.0\ref\TheClock.dll

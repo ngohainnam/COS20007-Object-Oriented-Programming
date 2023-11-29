@@ -1,0 +1,14 @@
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.3\ShapeDrawing\bin\Debug\net7.0\ShapeDrawing.exe
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.3\ShapeDrawing\bin\Debug\net7.0\ShapeDrawing.deps.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.3\ShapeDrawing\bin\Debug\net7.0\ShapeDrawing.runtimeconfig.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.3\ShapeDrawing\bin\Debug\net7.0\ShapeDrawing.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.3\ShapeDrawing\bin\Debug\net7.0\ShapeDrawing.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.3\ShapeDrawing\obj\Debug\net7.0\ShapeDrawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.3\ShapeDrawing\obj\Debug\net7.0\ShapeDrawing.AssemblyInfoInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.3\ShapeDrawing\obj\Debug\net7.0\ShapeDrawing.AssemblyInfo.cs
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.3\ShapeDrawing\obj\Debug\net7.0\ShapeDrawing.csproj.CoreCompileInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.3\ShapeDrawing\obj\Debug\net7.0\ShapeDrawing.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.3\ShapeDrawing\obj\Debug\net7.0\refint\ShapeDrawing.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.3\ShapeDrawing\obj\Debug\net7.0\ShapeDrawing.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.3\ShapeDrawing\obj\Debug\net7.0\ShapeDrawing.genruntimeconfig.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\week3\3.3\ShapeDrawing\obj\Debug\net7.0\ref\ShapeDrawing.dll

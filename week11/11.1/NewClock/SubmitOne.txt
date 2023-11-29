@@ -1,0 +1,95 @@
+//Counter class
+class Counter 
+{
+    private:
+        int _count; 
+
+    public:
+        Counter() 
+        {
+            _count = 0;
+        }
+
+        int Ticks()
+        {
+            return _count;
+        }
+
+        void Increment() 
+        { 
+            _count++; 
+        }
+
+        void Reset() 
+        { 
+            _count = 0; 
+        }
+};
+
+//Clock class
+#include <sstream>
+#include <iomanip>
+#include "Counter.cpp"
+
+class Clock 
+{
+    private:
+        Counter hours, minutes, seconds;
+
+    public:
+        std::string GetTimeString() 
+        {
+            std::ostringstream oss;  // Use for string formatting
+            // Formatted output to ensure two digits with leading zeros if necessary
+            oss << std::setw(2) << std::setfill('0') << hours.Ticks() << ":"
+                << std::setw(2) << std::setfill('0') << minutes.Ticks() << ":"
+                << std::setw(2) << std::setfill('0') << seconds.Ticks();
+            return oss.str();  // Convert stream to string and return
+        }
+
+        void Ticks() 
+        {
+            seconds.Increment(); 
+            if (seconds.Ticks() >= 60) 
+            {
+                minutes.Increment();
+                seconds.Reset();
+            }
+            if (minutes.Ticks() >= 60) 
+            {
+                hours.Increment();
+                minutes.Reset();
+            }
+            if (hours.Ticks() >= 24) 
+            {
+                hours.Reset();
+            }
+        }
+
+        void Reset() 
+        {
+            hours.Reset();
+            minutes.Reset();
+            seconds.Reset();
+        }
+};
+
+//Program class
+#include <iostream>
+#include <thread>
+#include <chrono>
+#include "Clock.cpp"
+
+int main() {
+    Clock clock;  
+    while (true) 
+    {
+        std::this_thread::sleep_for(std::chrono::milliseconds(200));
+        // Clear the console
+        system("CLS");
+        // Output the current time string to the console
+        std::cout << clock.GetTimeString() << std::endl;
+        clock.Ticks();
+    }
+    return 0;
+}

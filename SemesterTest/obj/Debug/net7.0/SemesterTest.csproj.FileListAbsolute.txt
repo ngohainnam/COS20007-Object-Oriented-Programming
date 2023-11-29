@@ -1,0 +1,14 @@
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\SemesterTest\bin\Debug\net7.0\SemesterTest.exe
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\SemesterTest\bin\Debug\net7.0\SemesterTest.deps.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\SemesterTest\bin\Debug\net7.0\SemesterTest.runtimeconfig.json
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\SemesterTest\bin\Debug\net7.0\SemesterTest.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\SemesterTest\bin\Debug\net7.0\SemesterTest.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\SemesterTest\obj\Debug\net7.0\SemesterTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\SemesterTest\obj\Debug\net7.0\SemesterTest.AssemblyInfoInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\SemesterTest\obj\Debug\net7.0\SemesterTest.AssemblyInfo.cs
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\SemesterTest\obj\Debug\net7.0\SemesterTest.csproj.CoreCompileInputs.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\SemesterTest\obj\Debug\net7.0\SemesterTest.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\SemesterTest\obj\Debug\net7.0\refint\SemesterTest.dll
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\SemesterTest\obj\Debug\net7.0\SemesterTest.pdb
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\SemesterTest\obj\Debug\net7.0\SemesterTest.genruntimeconfig.cache
+C:\Users\ngoha\OneDrive\Desktop\COS20007-OOP\SemesterTest\obj\Debug\net7.0\ref\SemesterTest.dll

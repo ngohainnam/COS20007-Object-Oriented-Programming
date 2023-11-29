@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheClock", "TheClock.csproj", "{2D9CDEF2-DE24-4275-ACD1-2295DBC1DF27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockTest", "..\ClockTest\ClockTest.csproj", "{8BE954F2-490D-4160-9037-2AAA04E96492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterTest", "..\CounterTest\CounterTest.csproj", "{976C201D-3F55-4B63-BFA1-CF3C69B4EE19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D9CDEF2-DE24-4275-ACD1-2295DBC1DF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9CDEF2-DE24-4275-ACD1-2295DBC1DF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9CDEF2-DE24-4275-ACD1-2295DBC1DF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9CDEF2-DE24-4275-ACD1-2295DBC1DF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE954F2-490D-4160-9037-2AAA04E96492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE954F2-490D-4160-9037-2AAA04E96492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE954F2-490D-4160-9037-2AAA04E96492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE954F2-490D-4160-9037-2AAA04E96492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976C201D-3F55-4B63-BFA1-CF3C69B4EE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976C201D-3F55-4B63-BFA1-CF3C69B4EE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976C201D-3F55-4B63-BFA1-CF3C69B4EE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976C201D-3F55-4B63-BFA1-CF3C69B4EE19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78B779CB-4133-43C8-A4B7-95A92FCD69F2}
+	EndGlobalSection
+EndGlobal
